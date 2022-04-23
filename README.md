@@ -1,12 +1,19 @@
 <body>
-<h1 align="center"> 👋 Hello World</h1>
+<h1 align="center">👋 Hello, I'm a Programmer.</h1>
 <br>
 <img src="https://user-images.githubusercontent.com/104234499/164827320-73afa02d-86b1-4261-8bc0-3502d0551e24.gif" style="width: 50%; height: auto;" align="right">
-🎖️ I'm <i>Muhammet ŞAFAK</i>, a <b>back-end developer</b>. I've been developing the backend of web applications with PHP for over 10 years. I wrote my first app in PHP 4 when I was a high school freshman. It was an application where high school senior students could study together. I learned that; student allowances cannot finance such a thing. 🤣 I learned Python in 2014 and C, C++ and Java in the following years.
+ <p>
+🎖️ I'm <i>Muhammet ŞAFAK</i>, a <b>back-end developer</b>. I've been developing the backend of web applications with PHP for over 10 years. I wrote my first app in PHP 4 when I was a high school freshman. It was an application where high school senior students could study together. I learned that; student allowances cannot finance such a thing. 🤣 I learned Python in 2014 and C, C++ and Java in the following years. <br> 
+ </p>
+ 
+[![Web](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.muhammetsafak.com.tr)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammetsafakcomtr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsafakcomtr/)
+ 
 </div>
 <img src="https://user-images.githubusercontent.com/104234499/164836662-cd68dd79-82f9-4cd1-93b9-6c3da8730ed1.gif" />
 <div>
-<h2 align="center">🖥️ Programming Languages and Technologies</h2>
+<h3 align="center">🖥️ Programming Languages and Technologies</h3>
  <br>
 <p>
 
@@ -32,34 +39,19 @@
 ![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 </div>
+
 <img src="https://user-images.githubusercontent.com/104234499/164836662-cd68dd79-82f9-4cd1-93b9-6c3da8730ed1.gif" />
+<br>
 <div>
 
-<br>
-<h2 align="center">📫 Contact</h2>
-<br>
-
-Here I leave a few links where you can reach me.
-
-[![Web](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.muhammetsafak.com.tr)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammetsafakcomtr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsafakcomtr/)
-
+<h3 align="center">💖 Did I mention I love open source?</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammetsafak" style="width: 50%;" align="left" />
+ 
+ ![Profile Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammetsafak1212%2Fhit-counter)
+ 
+ I develop most of the projects that I publish or support here outside of work. I'm doing this because I love it. If you like my improvements, don't forget to star them. 
+ 
 </div>
-<img src="https://user-images.githubusercontent.com/104234499/164836662-cd68dd79-82f9-4cd1-93b9-6c3da8730ed1.gif" />
-<br>
-<div>
-
-<h2 align="center">💖 Did I mention I love open source?</h2>
-
-<img src="https://user-images.githubusercontent.com/104234499/164838191-fd9b4031-4604-43ac-9fee-9d3fe20a81ef.gif"  style="width: 49%; float: left; margin-right: 1%;" />
-
-I develop most of the projects that I publish or support here outside of work. I'm doing this because I love it. If you like my improvements, don't forget to star them.
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammetsafak" style="width: 50%; float: right;" />
-
-
-<img src="https://user-images.githubusercontent.com/104234499/164836662-cd68dd79-82f9-4cd1-93b9-6c3da8730ed1.gif" />
 
 <div align="center">
 
@@ -68,7 +60,7 @@ I develop most of the projects that I publish or support here outside of work. I
 </div>
 </div>
 
-![Profile Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammetsafak1212%2Fhit-counter)
+
 
 </div>
 </body>
