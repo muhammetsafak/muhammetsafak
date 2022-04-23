@@ -1,10 +1,74 @@
-- 👋 Hi, I’m @muhammetsafak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<body>
+<h1 align="center"> 👋 Hello World</h1>
+<br>
+<img src="https://user-images.githubusercontent.com/104234499/164827320-73afa02d-86b1-4261-8bc0-3502d0551e24.gif" style="width: 50%; height: auto;" align="right">
+🎖️ I'm <i>Muhammet ŞAFAK</i>, a <b>back-end developer</b>. I've been developing the backend of web applications with PHP for over 10 years. I wrote my first app in PHP 4 when I was a high school freshman. It was an application where high school senior students could study together. I learned that; student allowances cannot finance such a thing. 🤣 I learned Python in 2014 and C, C++ and Java in the following years.
+</div>
+<img src="https://user-images.githubusercontent.com/104234499/164836662-cd68dd79-82f9-4cd1-93b9-6c3da8730ed1.gif" />
+<div>
+<h2 align="center">🖥️ Programming Languages and Technologies</h2>
+ <br>
+<p>
 
-<!---
-muhammetsafak/muhammetsafak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+</div>
+<img src="https://user-images.githubusercontent.com/104234499/164836662-cd68dd79-82f9-4cd1-93b9-6c3da8730ed1.gif" />
+<div>
+
+<br>
+<h2 align="center">📫 Contact</h2>
+<br>
+
+Here I leave a few links where you can reach me.
+
+[![Web](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.muhammetsafak.com.tr)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammetsafakcomtr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsafakcomtr/)
+
+</div>
+<img src="https://user-images.githubusercontent.com/104234499/164836662-cd68dd79-82f9-4cd1-93b9-6c3da8730ed1.gif" />
+<br>
+<div>
+
+<h2 align="center">💖 Did I mention I love open source?</h2>
+
+<img src="https://user-images.githubusercontent.com/104234499/164838191-fd9b4031-4604-43ac-9fee-9d3fe20a81ef.gif"  style="width: 49%; float: left; margin-right: 1%;" />
+
+I develop most of the projects that I publish or support here outside of work. I'm doing this because I love it. If you like my improvements, don't forget to star them.
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammetsafak" style="width: 50%; float: right;" />
+
+
+<img src="https://user-images.githubusercontent.com/104234499/164836662-cd68dd79-82f9-4cd1-93b9-6c3da8730ed1.gif" />
+
+<div align="center">
+
+![Github Activity](https://activity-graph.herokuapp.com/graph?username=muhammetsafak&theme=minimal)
+
+</div>
+</div>
+
+![Profile Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammetsafak1212%2Fhit-counter)
+
+</div>
+</body>
