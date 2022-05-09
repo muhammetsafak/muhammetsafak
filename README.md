@@ -8,7 +8,7 @@
  
 [![Web](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.muhammetsafak.com.tr)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammetsafakcomtr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsafakcomtr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhametsafak/)
  
 </div>
 <img src="https://user-images.githubusercontent.com/104234499/164836662-cd68dd79-82f9-4cd1-93b9-6c3da8730ed1.gif" />
