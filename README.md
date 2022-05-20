@@ -1,7 +1,6 @@
 <body>
 <h1 align="center">👋 Hello, I'm a Programmer.</h1>
 <br>
-<img src="https://user-images.githubusercontent.com/104234499/164827320-73afa02d-86b1-4261-8bc0-3502d0551e24.gif" style="width: 50%; height: auto;" align="right">
  <p>
 🎖️ I'm <i>Muhammet ŞAFAK</i>, a <b>back-end developer</b>. I've been developing the backend of web applications with PHP for over 10 years. I wrote my first app in PHP 4 when I was a high school freshman. It was an application where high school senior students could study together. I learned that; student allowances cannot finance such a thing. 🤣 I learned Python in 2014 and C, C++ and Java in the following years. <br> 
  </p>
