@@ -54,10 +54,3 @@ Most of what I open-source is built outside of work — because I enjoy it. If s
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammetsafak&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9" alt="Muhammet Şafak's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetsafak&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" alt="Top languages" />
-</p>
