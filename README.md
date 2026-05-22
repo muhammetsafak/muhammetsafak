@@ -1,65 +1,63 @@
-<body>
-<h1 align="center">👋 Hello, I'm a Programmer.</h1>
-<br>
- <p>
-🎖️ I'm <i>Muhammet ŞAFAK</i>, a <b>back-end developer</b>. I've been developing the backend of web applications with PHP for over 10 years (since 2008). I wrote my first app in PHP 4 when I was a high school freshman. It was an application where high school senior students could study together. I learned that; student allowances cannot finance such a thing. 🤣 I learned Python in 2014 and C, C++ and Java in the following years. <br> 
- </p>
- 
-[![Web](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.muhammetsafak.com.tr)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammetsafakcomtr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhametsafak/)
- 
-</div>
-<img src="https://user-images.githubusercontent.com/104234499/164836662-cd68dd79-82f9-4cd1-93b9-6c3da8730ed1.gif" />
-<div>
-<h3 align="center">🖥️ Programming Languages and Technologies</h3>
- <br>
-<p>
+<h1 align="center">Hi, I'm Muhammet Şafak 👋</h1>
+<h3 align="center">Software Engineer & System Architect</h3>
+
+<p align="center">
+  <a href="https://www.muhammetsafak.com.tr"><img src="https://img.shields.io/badge/muhammetsafak.com.tr-4f46e5?style=for-the-badge&logo=astro&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/muhammetsafak44"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/muhammetsafak44"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://medium.com/@muhammetsafak"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.youtube.com/@muhammetsafak"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:info@muhammetsafak.com.tr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammetsafak&style=flat-square&color=6366f1" alt="Profile views" />
+</p>
+
+---
+
+I've been building software since 2008. Today I design the **microservice and event-driven architecture** of high-traffic systems, working across the **PHP, Go, Python and JavaScript** ecosystems — focused on the problem, not the language.
+
+I write about the reasoning behind technical decisions and lessons from real projects on my development journal at **[muhammetsafak.com.tr](https://www.muhammetsafak.com.tr)**.
+
+## 🚀 Open Source & Projects
+
+- **[InitPHP](https://github.com/InitPHP)** — An open-source ecosystem of 39 modular PHP libraries — Router, Database/ORM, Socket, Queue, Container, Logger and more — plus a minimalist MVC framework. PSR-compliant, fully tested, MIT-licensed.
+- **[Parantaj](https://parantaj.com)** — A personal & business finance management platform (Web, iOS & Android): income/expense tracking, budgeting, multi-account management and detailed reporting.
+- **[SignalLock](https://signallock.app)** — A privacy-first menu-bar app (macOS & Windows) that auto-locks your computer when a trusted Bluetooth device leaves range. No network, no cloud, no telemetry.
+- **[sade.dev](https://sade.dev)** — A Turkish engineering notebook documenting real production backend & systems decisions — connection pooling, queue strategies, VPS architecture — together with their costs and trade-offs.
+
+Most of what I open-source is built outside of work — because I enjoy it. If something here helps you, a ⭐ is always appreciated.
+
+## 🛠️ Tech Stack
+
+**Languages**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+**Frameworks & Tools**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+**Data & Infrastructure**
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+## 📊 GitHub Stats
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/104234499/164836662-cd68dd79-82f9-4cd1-93b9-6c3da8730ed1.gif" />
-<br>
-<div>
-
-<h3 align="center">💖 Did I mention I love open source?</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=muhammetsafak" style="width: 50%;" align="left" />
- 
- ![Profile Hit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammetsafak1212%2Fhit-counter)
- 
- I develop most of the projects that I publish or support here outside of work. I'm doing this because I love it. If you like my improvements, don't forget to star them. 
- 
-</div>
-
-<div align="center">
-
-![Github Activity](https://activity-graph.herokuapp.com/graph?username=muhammetsafak&theme=minimal)
-
-</div>
-</div>
-
-
-
-</div>
-</body>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammetsafak&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9" alt="Muhammet Şafak's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetsafak&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" alt="Top languages" />
+</p>
