@@ -1,35 +1,46 @@
-<h1 align="center">Hi, I'm Muhammet Şafak 👋</h1>
-<h3 align="center">Software Engineer & System Architect</h3>
+# Hi, I'm Muhammet Şafak 👋
 
-<p align="center">
-  <a href="https://www.muhammetsafak.com.tr"><img src="https://img.shields.io/badge/muhammetsafak.com.tr-4f46e5?style=for-the-badge&logo=astro&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/muhammetsafak44"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/muhammetsafak44"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://medium.com/@muhammetsafak"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://www.youtube.com/@muhammetsafak"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:info@muhammetsafak.com.tr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### Polyglot Software Engineer & System Architect
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammetsafak&style=flat-square&color=6366f1" alt="Profile views" />
-</p>
+[![Website](https://img.shields.io/badge/muhammetsafak.com.tr-4f46e5?style=for-the-badge&logo=astro&logoColor=white)](https://www.muhammetsafak.com.tr)
+[![sade.dev](https://img.shields.io/badge/sade.dev-111111?style=for-the-badge)](https://sade.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsafak44)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/muhammetsafak44)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammetsafak)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@muhammetsafak)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@muhammetsafak.com.tr)
+
+![Profile views](https://komarev.com/ghpvc/?username=muhammetsafak&style=flat-square&color=6366f1)
 
 ---
 
-I've been building software since 2008. Today I design the **microservice and event-driven architecture** of high-traffic systems, working across the **PHP, Go, Python and JavaScript** ecosystems — focused on the problem, not the language.
+I've been building software since 2008. Today I design the **microservice and event-driven architecture** of high-traffic systems across the **PHP, Go, Python and JavaScript** ecosystems — focused on the problem, not the language.
 
-I write about the reasoning behind technical decisions and lessons from real projects on my development journal at **[muhammetsafak.com.tr](https://www.muhammetsafak.com.tr)**.
+What I learn from that work ends up across a few channels, each with a clear role.
 
-## 🚀 Open Source & Projects
+## ✍️ Where I write
 
-- **[InitPHP](https://github.com/InitPHP)** — An open-source ecosystem of 39 modular PHP libraries — Router, Database/ORM, Socket, Queue, Container, Logger and more — plus a minimalist MVC framework. PSR-compliant, fully tested, MIT-licensed.
-- **[Parantaj](https://parantaj.com)** — A personal & business finance management platform (Web, iOS & Android): income/expense tracking, budgeting, multi-account management and detailed reporting.
-- **[SignalLock](https://signallock.app)** — A privacy-first menu-bar app (macOS & Windows) that auto-locks your computer when a trusted Bluetooth device leaves range. No network, no cloud, no telemetry.
-- **[sade.dev](https://sade.dev)** — A Turkish engineering notebook documenting real production backend & systems decisions — connection pooling, queue strategies, VPS architecture — together with their costs and trade-offs.
+| Channel | What you'll find | Language |
+| --- | --- | :---: |
+| **[muhammetsafak.com.tr](https://www.muhammetsafak.com.tr)** | Applied development journal — what I built, how I built it, what broke | TR |
+| **[sade.dev](https://sade.dev)** | Architecture manifesto — production backend & systems decisions, the trade-offs behind them | TR |
+| **[YouTube](https://www.youtube.com/@muhammetsafak)** | What text can't carry — process, side-by-side comparisons, walkthroughs | TR |
+
+The line between the two sites is intentional: the journal is *applied* — granular, project-by-project, in the first person. **sade.dev** is the principled side — timeless, impersonal, the architecture I'd defend in a design review.
+
+## 🎯 Now
+
+Designing event-driven systems at **Bulutklinik**, maintaining the [InitPHP](https://github.com/InitPHP) ecosystem, and writing on muhammetsafak.com.tr since 2014 — one month at a time.
+
+## 🚀 Open source & projects
+
+- **[InitPHP](https://github.com/InitPHP)** — Open-source ecosystem of 39 modular PHP libraries: Router, Database/ORM, Socket, Queue, Container, Logger and more — plus a minimalist MVC framework. PSR-compliant, fully tested, MIT-licensed.
+- **[Parantaj](https://parantaj.com)** — Personal & business finance management platform (Web, iOS & Android): income/expense tracking, budgeting, multi-account management, detailed reporting.
+- **[SignalLock](https://signallock.app)** — Privacy-first menu-bar app (macOS & Windows) that auto-locks your computer when a trusted Bluetooth device leaves range. No network, no cloud, no telemetry.
 
 Most of what I open-source is built outside of work — because I enjoy it. If something here helps you, a ⭐ is always appreciated.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 **Languages**
 
@@ -39,14 +50,14 @@ Most of what I open-source is built outside of work — because I enjoy it. If s
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks & tools**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Data & Infrastructure**
+**Data & infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,3 +65,7 @@ Most of what I open-source is built outside of work — because I enjoy it. If s
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+The fastest way to reach me is **info@muhammetsafak.com.tr**.
