@@ -37,6 +37,7 @@ Designing event-driven systems at **Bulutklinik**, maintaining the [InitPHP](htt
 - **[InitPHP](https://github.com/InitPHP)** — Open-source ecosystem of 39 modular PHP libraries: Router, Database/ORM, Socket, Queue, Container, Logger and more — plus a minimalist MVC framework. PSR-compliant, fully tested, MIT-licensed.
 - **[Parantaj](https://parantaj.com)** — Personal & business finance management platform (Web, iOS & Android): income/expense tracking, budgeting, multi-account management, detailed reporting.
 - **[SignalLock](https://signallock.app)** — Privacy-first menu-bar app (macOS & Windows) that auto-locks your computer when a trusted Bluetooth device leaves range. No network, no cloud, no telemetry.
+- **[CommitBrief](https://commitbrief.com)** — Local LLM-powered code review CLI for git diffs. Review staged changes, commits, branches, or PRs in your terminal — provider-agnostic (Anthropic, OpenAI, Gemini, Ollama, or your local Claude/Gemini CLI). Written in Go, GPL-3.0.
 
 Most of what I open-source is built outside of work — because I enjoy it. If something here helps you, a ⭐ is always appreciated.
 
