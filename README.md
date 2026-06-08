@@ -38,7 +38,7 @@ Architecting the **event-driven, microservice backbone** of high-traffic systems
 - **[BabelQueue](https://babelqueue.com)** _([github](https://github.com/BabelQueue))_ — Language-agnostic message queue standard: one strict JSON envelope that Laravel, Symfony, Go, Python, Java, .NET and Node.js all speak — over the broker you already run (Redis, RabbitMQ). Drops PHP's `serialize()` lock-in, adds URN routing and built-in `trace_id` for cross-service tracing. No sidecar or proxy. SDKs for six languages, MIT-licensed.
 - **[Parantaj](https://parantaj.com)** — Personal & business finance management platform (Web, iOS & Android): income/expense tracking, budgeting, multi-account management, detailed reporting.
 - **[SignalLock](https://signallock.app)** — Privacy-first menu-bar app (macOS & Windows) that auto-locks your computer when a trusted Bluetooth device leaves range. No network, no cloud, no telemetry.
-- **[InitPHP](https://github.com/InitPHP)** — Open-source ecosystem of 39 modular PHP libraries: Router, Database/ORM, Socket, Queue, Container, Logger and more — plus a minimalist MVC framework. PSR-compliant, fully tested, MIT-licensed.
+- **[InitPHP](https://github.com/InitPHP)** — Open-source ecosystem of 25+ modular PHP libraries: Router, Database/ORM, Socket, Queue, Container, Logger and more — plus a minimalist MVC framework. PSR-compliant, fully tested, MIT-licensed.
 
 Most of what I open-source is built outside of work — because I enjoy it. If something here helps you, a ⭐ is always appreciated.
 
