@@ -30,14 +30,15 @@ The line between the two sites is intentional: the journal is *applied* — gran
 
 ## 🎯 Now
 
-Designing event-driven systems at **Bulutklinik**, maintaining the [InitPHP](https://github.com/InitPHP) ecosystem, and writing on muhammetsafak.com.tr since 2014 — one month at a time.
+Architecting the **event-driven, microservice backbone** of high-traffic systems at **Bulutklinik** — designing for failure, scale, and the long run. Writing on [muhammetsafak.com.tr](https://www.muhammetsafak.com.tr) since 2014, one month at a time — distilling production decisions into something worth reading.
 
 ## 🚀 Open source & projects
 
-- **[InitPHP](https://github.com/InitPHP)** — Open-source ecosystem of 39 modular PHP libraries: Router, Database/ORM, Socket, Queue, Container, Logger and more — plus a minimalist MVC framework. PSR-compliant, fully tested, MIT-licensed.
+- **[CommitBrief](https://commitbrief.com)** _([github](https://github.com/CommitBrief/commitbrief))_ — Local LLM-powered code review CLI for git diffs. Review staged changes, commits, branches, or PRs in your terminal — provider-agnostic (Anthropic, OpenAI, Gemini, Ollama, or your local Claude/Gemini/Codex CLI). Written in Go, GPL-3.0.
+- **[BabelQueue](https://babelqueue.com)** _([github](https://github.com/BabelQueue))_ — Language-agnostic message queue standard: one strict JSON envelope that Laravel, Symfony, Go, Python, Java, .NET and Node.js all speak — over the broker you already run (Redis, RabbitMQ). Drops PHP's `serialize()` lock-in, adds URN routing and built-in `trace_id` for cross-service tracing. No sidecar or proxy. SDKs for six languages, MIT-licensed.
 - **[Parantaj](https://parantaj.com)** — Personal & business finance management platform (Web, iOS & Android): income/expense tracking, budgeting, multi-account management, detailed reporting.
 - **[SignalLock](https://signallock.app)** — Privacy-first menu-bar app (macOS & Windows) that auto-locks your computer when a trusted Bluetooth device leaves range. No network, no cloud, no telemetry.
-- **[CommitBrief](https://commitbrief.com)** _([github](https://github.com/CommitBrief/commitbrief))_ — Local LLM-powered code review CLI for git diffs. Review staged changes, commits, branches, or PRs in your terminal — provider-agnostic (Anthropic, OpenAI, Gemini, Ollama, or your local Claude/Gemini/Codex CLI). Written in Go, GPL-3.0.
+- **[InitPHP](https://github.com/InitPHP)** — Open-source ecosystem of 39 modular PHP libraries: Router, Database/ORM, Socket, Queue, Container, Logger and more — plus a minimalist MVC framework. PSR-compliant, fully tested, MIT-licensed.
 
 Most of what I open-source is built outside of work — because I enjoy it. If something here helps you, a ⭐ is always appreciated.
 
