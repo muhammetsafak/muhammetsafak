@@ -22,7 +22,7 @@ What I learn from that work ends up across a few channels, each with a clear rol
 
 | Channel | What you'll find | Language |
 | --- | --- | :---: |
-| **[muhammetsafak.com.tr](https://www.muhammetsafak.com.tr)** | Applied development journal — what I built, how I built it, what broke | TR |
+| **[muhammetsafak.com.tr](https://www.muhammetsafak.com.tr)** | Applied development journal — what I built, how I built it, what broke | [TR](https://www.muhammetsafak.com.tr/) - [EN](https://www.muhammetsafak.com.tr/en/) |
 | **[sade.dev](https://sade.dev)** | Architecture manifesto — production backend & systems decisions, the trade-offs behind them | [TR](https://sade.dev/tr/) - [EN](https://sade.dev/en/) |
 | **[YouTube](https://www.youtube.com/@muhammetsafak)** | What text can't carry — process, side-by-side comparisons, walkthroughs | TR |
 
@@ -30,15 +30,15 @@ The line between the two sites is intentional: the journal is *applied* — gran
 
 ## 🎯 Now
 
-Architecting the **event-driven, microservice backbone** of high-traffic systems at **Bulutklinik** — designing for failure, scale, and the long run. Writing on [muhammetsafak.com.tr](https://www.muhammetsafak.com.tr) since 2014, one month at a time — distilling production decisions into something worth reading.
+Architecting the **event-driven, microservice backbone** of high-traffic systems at **[Bulutklinik](https://github.com/bulutklinik)** — designing for failure, scale, and the long run. Writing on [muhammetsafak.com.tr](https://www.muhammetsafak.com.tr) since 2014, one month at a time — distilling production decisions into something worth reading.
 
 ## 🚀 Open source & projects
 
 - **[CommitBrief](https://commitbrief.com)** _([github](https://github.com/CommitBrief/commitbrief))_ — Local LLM-powered code review CLI for git diffs. Review staged changes, commits, branches, or PRs in your terminal — provider-agnostic (Anthropic, OpenAI, Gemini, Ollama, or your local Claude/Gemini/Codex CLI). Written in Go, GPL-3.0.
 - **[BabelQueue](https://babelqueue.com)** _([github](https://github.com/BabelQueue))_ — Language-agnostic message queue standard: one strict JSON envelope that Laravel, Symfony, Go, Python, Java, .NET and Node.js all speak — over the broker you already run (Redis, RabbitMQ). Drops PHP's `serialize()` lock-in, adds URN routing and built-in `trace_id` for cross-service tracing. No sidecar or proxy. SDKs for six languages, MIT-licensed.
 - **[Parantaj](https://parantaj.com)** — Personal & business finance management platform (Web, iOS & Android): income/expense tracking, budgeting, multi-account management, detailed reporting.
-- **[SignalLock](https://signallock.app)** — Privacy-first menu-bar app (macOS & Windows) that auto-locks your computer when a trusted Bluetooth device leaves range. No network, no cloud, no telemetry.
-- **[InitPHP](https://github.com/InitPHP)** — Open-source ecosystem of 25+ modular PHP libraries: Router, Database/ORM, Socket, Queue, Container, Logger and more — plus a minimalist MVC framework. PSR-compliant, fully tested, MIT-licensed.
+- **[SignalLock](https://signallock.app)** _([github](https://github.com/signallockapp))_ — Privacy-first menu-bar app (macOS & Windows) that auto-locks your computer when a trusted Bluetooth device leaves range. No network, no cloud, no telemetry.
+- **[InitPHP](https://initphp.org)** _([github](https://github.com/InitPHP))_ — Open-source ecosystem of 25+ modular PHP libraries: Router, Database/ORM, Socket, Queue, Container, Logger and more — plus a minimalist MVC framework. PSR-compliant, fully tested, MIT-licensed.
 
 Most of what I open-source is built outside of work — because I enjoy it. If something here helps you, a ⭐ is always appreciated.
 
