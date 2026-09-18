@@ -43,7 +43,11 @@ Architecting the **event-driven, microservice backbone** of high-traffic systems
 
 Most of what I open-source is built outside of work — because I enjoy it. If something here helps you, a ⭐ is always appreciated.
 
-For everything else I've built, see the **[Portfolio](https://www.muhammetsafak.com.tr/en/portfolio/)** page.
+For everything else I've built, see the **[Portfolio](https://www.muhammetsafak.com.tr/en/portfolio/)** page. I also gather what I build under a few umbrellas, each with its own remit:
+
+- **[Parva Machina](https://parvamachina.com)** _([github](https://github.com/ParvaMachina))_ — A one-person game studio, no publisher and no funding. Browser games — strategy, puzzle, simulation — that stay playable in airplane mode: no accounts, no telemetry, no hidden dice. Regnarium above is one of them.
+- **[Tignex](https://tignex.com)** _([github](https://github.com/tignex))_ — The engineering organization behind the developer tooling: self-hostable, forkable, built for systems already in production. Every project keeps its own name and repo; the decisions and trade-offs behind them are written down in public.
+- **[Tunedness](https://tunedness.com)** _([github](https://github.com/Tunedness))_ — Applied AI research and engineering. Most AI projects stall in the last 10% — fine-tuning, retrieval, agents, evals, cost — and that's where the work starts. Everything ships behind eval gates, and the client keeps the weights, prompts and infrastructure.
 
 ## 🛠️ Tech stack
 
