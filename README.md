@@ -2,13 +2,13 @@
 
 ### Polyglot Software Engineer & System Architect
 
-[![Website](https://img.shields.io/badge/muhammetsafak.com.tr-4f46e5?style=for-the-badge&logo=astro&logoColor=white)](https://www.muhammetsafak.com.tr)
+[![Website](https://img.shields.io/badge/muhammetsafak.com-4f46e5?style=for-the-badge&logo=astro&logoColor=white)](https://muhammetsafak.com)
 [![sade.dev](https://img.shields.io/badge/sade.dev-111111?style=for-the-badge)](https://sade.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsafak44)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/muhammetsafak44)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammetsafak)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@muhammetsafak)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@muhammetsafak.com.tr)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@muhammetsafak.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=muhammetsafak&style=flat-square&color=6366f1)
 
@@ -22,7 +22,7 @@ What I learn from that work ends up across a few channels, each with a clear rol
 
 | Channel | What you'll find | Language |
 | --- | --- | :---: |
-| **[muhammetsafak.com.tr](https://www.muhammetsafak.com.tr)** | Applied development journal — what I built, how I built it, what broke | [TR](https://www.muhammetsafak.com.tr/) - [EN](https://www.muhammetsafak.com.tr/en/) |
+| **[muhammetsafak.com](https://muhammetsafak.com)** | Applied development journal — what I built, how I built it, what broke | [TR](https://muhammetsafak.com/tr/) - [EN](https://muhammetsafak.com) |
 | **[sade.dev](https://sade.dev)** | Architecture manifesto — production backend & systems decisions, the trade-offs behind them | [TR](https://sade.dev/tr/) - [EN](https://sade.dev/en/) |
 | **[YouTube](https://www.youtube.com/@muhammetsafak)** | What text can't carry — process, side-by-side comparisons, walkthroughs | TR |
 
@@ -30,7 +30,7 @@ The line between the two sites is intentional: the journal is *applied* — gran
 
 ## 🎯 Now
 
-Architecting the **event-driven, microservice backbone** of high-traffic systems at **[Bulutklinik](https://github.com/bulutklinik)** — designing for failure, scale, and the long run. Writing on [muhammetsafak.com.tr](https://www.muhammetsafak.com.tr) since 2014, one month at a time — distilling production decisions into something worth reading.
+Architecting the **event-driven, microservice backbone** of high-traffic systems at **[Bulutklinik](https://github.com/bulutklinik)** — designing for failure, scale, and the long run. Writing on [muhammetsafak.com](https://muhammetsafak.com) since 2014, one month at a time — distilling production decisions into something worth reading.
 
 ## 🚀 Open source & projects
 
@@ -43,7 +43,7 @@ Architecting the **event-driven, microservice backbone** of high-traffic systems
 
 Most of what I open-source is built outside of work — because I enjoy it. If something here helps you, a ⭐ is always appreciated.
 
-For everything else I've built, see the **[Portfolio](https://www.muhammetsafak.com.tr/en/portfolio/)** page. I also gather what I build under a few umbrellas, each with its own remit:
+For everything else I've built, see the **[Portfolio](https://muhammetsafak.com/portfolio/)** page. I also gather what I build under a few umbrellas, each with its own remit:
 
 - **[Parva Machina](https://parvamachina.com)** _([github](https://github.com/ParvaMachina))_ — A one-person game studio, no publisher and no funding. Browser games — strategy, puzzle, simulation — that stay playable in airplane mode: no accounts, no telemetry, no hidden dice. Regnarium above is one of them.
 - **[Tignex](https://tignex.com)** _([github](https://github.com/tignex))_ — The engineering organization behind the developer tooling: self-hostable, forkable, built for systems already in production. Every project keeps its own name and repo; the decisions and trade-offs behind them are written down in public.
