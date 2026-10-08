@@ -1,80 +1,136 @@
-# Hi, I'm Muhammet Şafak 👋
+# Hi, I'm Muhammet Şafak
 
-### Polyglot Software Engineer & System Architect
+**Software Engineer · System Architect · Engineering Researcher**
 
-[![Website](https://img.shields.io/badge/muhammetsafak.com-4f46e5?style=for-the-badge&logo=astro&logoColor=white)](https://muhammetsafak.com)
-[![sade.dev](https://img.shields.io/badge/sade.dev-111111?style=for-the-badge)](https://sade.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsafak44)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/muhammetsafak44)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammetsafak)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@muhammetsafak)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@muhammetsafak.com)
+Staff Engineer at [Bulutklinik](https://github.com/bulutklinik) | Distributed Systems · Software Architecture · Developer Infrastructure
 
-![Profile views](https://komarev.com/ghpvc/?username=muhammetsafak&style=flat-square&color=6366f1)
+[![Website](https://img.shields.io/badge/Website-4f46e5?style=flat-square&logo=astro&logoColor=white)](https://muhammetsafak.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammetsafak44)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammetsafak)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/muhammetsafak44)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@muhammetsafak.com)
 
 ---
 
-I've been building software since 2008. Today I design the **microservice and event-driven architecture** of high-traffic systems across the **PHP, Go, Python and JavaScript** ecosystems — focused on the problem, not the language.
+I've been building software professionally since 2008. Today, I work as a **Staff Engineer at Bulutklinik**, focusing on the architecture, scalability, and reliability of high-traffic distributed systems.
 
-What I learn from that work ends up across a few channels, each with a clear role.
+My work spans three closely connected areas:
 
-## ✍️ Where I write
+- **Software Engineering** — Building production systems, backend services, APIs, and developer tools.
+- **System Architecture** — Designing distributed and event-driven systems, defining boundaries, evaluating trade-offs, and making systems reliable and maintainable.
+- **Engineering Research** — Investigating system behavior through experiments, benchmarks, performance analysis, and reproducible measurements.
 
-| Channel | What you'll find | Language |
-| --- | --- | :---: |
-| **[muhammetsafak.com](https://muhammetsafak.com)** | Applied development journal — what I built, how I built it, what broke | [TR](https://muhammetsafak.com/tr/) - [EN](https://muhammetsafak.com) |
-| **[sade.dev](https://sade.dev)** | Architecture manifesto — production backend & systems decisions, the trade-offs behind them | [TR](https://sade.dev/tr/) - [EN](https://sade.dev/en/) |
-| **[YouTube](https://www.youtube.com/@muhammetsafak)** | What text can't carry — process, side-by-side comparisons, walkthroughs | TR |
+I work primarily with **PHP, Go, Python, and JavaScript/TypeScript**, choosing technologies based on the problem rather than the language or framework.
 
-The line between the two sites is intentional: the journal is *applied* — granular, project-by-project, in the first person. **sade.dev** is the principled side — timeless, impersonal, the architecture I'd defend in a design review.
+I care about the reasoning behind engineering decisions: **why a particular design works, what it costs, where it fails, and under which conditions it remains a reasonable choice.**
 
-## 🎯 Now
+## Engineering Focus
 
-Architecting the **event-driven, microservice backbone** of high-traffic systems at **[Bulutklinik](https://github.com/bulutklinik)** — designing for failure, scale, and the long run. Writing on [muhammetsafak.com](https://muhammetsafak.com) since 2014, one month at a time — distilling production decisions into something worth reading.
+| Area | Interests |
+| --- | --- |
+| **Distributed Systems** | Event-driven architecture, messaging, service contracts, consistency, retries, idempotency |
+| **Software Architecture** | System boundaries, DDD, modularity, integration design, architectural trade-offs |
+| **Reliability & Performance** | High availability, caching, database performance, scalability, observability |
+| **Developer Infrastructure** | CLI tools, code review, CI/CD, interoperability, open standards |
+| **Applied AI Engineering** | LLM gateways, RAG, MCP, agent security, evaluation, self-hosted infrastructure |
+| **Engineering Research** | Benchmarking, experimental methodology, performance analysis, reproducibility |
 
-## 🚀 Open source & projects
+## Engineering Research
 
-- **[CommitBrief](https://commitbrief.com)** _([github](https://github.com/CommitBrief/commitbrief))_ — Local LLM-powered code review CLI for git diffs. Review staged changes, commits, branches, or PRs in your terminal — provider-agnostic (Anthropic, OpenAI, Gemini, Ollama, or your local Claude/Gemini/Codex CLI). Written in Go, GPL-3.0.
-- **[BabelQueue](https://babelqueue.com)** _([github](https://github.com/BabelQueue))_ — Language-agnostic message queue standard: one strict JSON envelope that Laravel, Symfony, Go, Python, Java, .NET and Node.js all speak — over the broker you already run (Redis, RabbitMQ). Drops PHP's `serialize()` lock-in, adds URN routing and built-in `trace_id` for cross-service tracing. No sidecar or proxy. SDKs for six languages, MIT-licensed.
-- **[QueryProxy](https://queryproxy.com/)** _([github](https://github.com/QueryProxy/QueryProxy))_ — Self-hosted access control layer between developers and production databases: nobody gets credentials, everybody gets a query. AST-based SQL guards reject unprotected `UPDATE`/`DELETE` and inject row limits, DBAs approve from the web UI or Slack/Teams, results come back masked-at-write with an immutable audit trail. PostgreSQL, MySQL, MariaDB, SQL Server and SQLite. A single Laravel monolith, no external services required, AGPL-3.0.
-- **[Contextator](https://contextator.com)** _([github](https://github.com/Contextator/Contextator))_ — Turns a pile of documentation into a private MCP endpoint your agent can actually search. Point a project at local directories, git repos, uploads or Notion; it does markdown-aware chunking with heading breadcrumbs and incremental re-indexing by file hash. Embeddings run locally on CPU by default — OpenAI is optional, not assumed. TypeScript, PostgreSQL + pgvector, one Docker container, AGPL-3.0.
-- **[RAGmux](https://ragmux.com/)** _([github](https://github.com/ragmux/ragmux))_ — Self-hosted AI gateway: one OpenAI-compatible `/v1/chat/completions` endpoint in front of OpenAI, Anthropic, Gemini, DeepSeek, Ollama or anything else that speaks the protocol — with RAG, per-project rate limits, token budgets and audit logging built in. Two containers, no Redis, no separate vector database: users, documents, vectors and metrics all live in one PostgreSQL. Written in Go, AGPL-3.0.
-- **[Regnarium](https://regnarium.com/)** — A 4X strategy game that respects your evening: a full conquest on a 480-hex map in 30–45 minutes. Diceless combat that shows the damage before you commit, three AI personalities that don't cheat, seed-based maps you can share and replay. Runs entirely on-device — no servers, no accounts, no telemetry — in the browser today, iOS and Android next.
+I conduct independent engineering investigations to understand how software systems behave under measurable conditions.
 
-Most of what I open-source is built outside of work — because I enjoy it. If something here helps you, a ⭐ is always appreciated.
+My research focuses on runtime performance, database behavior, system capacity, resource efficiency, and the reliability of engineering measurements.
 
-For everything else I've built, see the **[Portfolio](https://muhammetsafak.com/portfolio/)** page. I also gather what I build under a few umbrellas, each with its own remit:
+Selected work:
 
-- **[Parva Machina](https://parvamachina.com)** _([github](https://github.com/ParvaMachina))_ — A one-person game studio, no publisher and no funding. Browser games — strategy, puzzle, simulation — that stay playable in airplane mode: no accounts, no telemetry, no hidden dice. Regnarium above is one of them.
-- **[Tignex](https://tignex.com)** _([github](https://github.com/tignex))_ — The engineering organization behind the developer tooling: self-hostable, forkable, built for systems already in production. Every project keeps its own name and repo; the decisions and trade-offs behind them are written down in public.
-- **[Tunedness](https://tunedness.com)** _([github](https://github.com/Tunedness))_ — Applied AI research and engineering. Most AI projects stall in the last 10% — fine-tuning, retrieval, agents, evals, cost — and that's where the work starts. Everything ships behind eval gates, and the client keeps the weights, prompts and infrastructure.
+- **[Go vs. FrankenPHP vs. PHP-FPM](https://muhammetsafak.com/research/)** — Comparing API throughput, CPU efficiency, and database interaction under controlled workloads.
+- **[PostgreSQL Partial Indexes](https://muhammetsafak.com/research/)** — Investigating index selection and query performance on a 10-million-row queue table.
+- **[Benchmark Reproducibility](https://muhammetsafak.com/research/)** — Examining how different measurement methods can produce substantially different performance conclusions.
 
-## 🛠️ Tech stack
+I publish research with its methodology, environment, results, and limitations. The goal is not to declare universal winners, but to produce findings that others can examine, challenge, and reproduce.
 
-**Languages**
+**[Explore my research →](https://muhammetsafak.com/research/)**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## Open Source & Developer Infrastructure
 
-**Frameworks & tools**
+Outside my professional role, I develop open-source tools, infrastructure software, and independent products.
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Developer Tools & Distributed Systems
 
-**Data & infrastructure**
+| Project | Description |
+| --- | --- |
+| **[BabelQueue](https://babelqueue.com)** | Language-agnostic messaging specification and SDK ecosystem for interoperable, event-driven systems. |
+| **[CommitBrief](https://commitbrief.com)** | Provider-agnostic, AI-assisted code review CLI written in Go. |
+| **[QueryProxy](https://queryproxy.com)** | Self-hosted production database access, SQL approval, policy enforcement, and auditing. |
+| **[InitPHP](https://initphp.org)** | Framework-independent PHP libraries and development components. |
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### AI Infrastructure & Applied Research
+
+| Project | Description |
+| --- | --- |
+| **[Contextator](https://contextator.com)** | Self-hosted documentation and semantic search infrastructure exposed through MCP. |
+| **[RAGmux](https://ragmux.com)** | Self-hosted AI gateway with multi-provider routing, RAG, budgets, and observability. |
+| **[AgentFuse](https://github.com/Tunedness/AgentFuse)** | MCP tool-call proxy for detecting agent loops and enforcing execution policies. |
+| **[McpGuard](https://github.com/Tunedness/McpGuard)** | MCP security proxy for tool access control, data protection, and auditability. |
+
+These projects reflect recurring engineering interests: interoperability, explicit contracts, vendor independence, self-hosting, measurable behavior, and operational transparency.
+
+Additional projects and experiments are available in my **[Portfolio](https://muhammetsafak.com/portfolio/)** and **[Labs](https://muhammetsafak.com/labs/)**.
+
+## Projects & Research Organizations
+
+My independent work is organized into several areas:
+
+- **[Tignex](https://tignex.com)** — Open-source developer tools, infrastructure software, protocols, and engineering utilities.
+- **[Tunedness](https://tunedness.com)** — Applied AI research and engineering, including LLM infrastructure, MCP, RAG, security, and evaluation.
+- **[Parva Machina](https://parvamachina.com)** — Independent browser and mobile games, exploring deterministic systems and offline-first design.
+
+These initiatives are part of my broader independent research and development work under **[Centvix](https://centvix.com)**.
+
+## Writing & Knowledge Sharing
+
+I document engineering decisions, research findings, architectural trade-offs, and lessons learned from building and operating software.
+
+Each publishing channel serves a different purpose:
+
+| Channel | Focus | Language |
+| --- | --- | --- |
+| **[muhammetsafak.com](https://muhammetsafak.com)** | Personal engineering journal, portfolio, labs, and research | English / Turkish |
+| **[sade.dev](https://sade.dev)** | Software architecture principles, backend engineering, and system design | English / Turkish |
+| **[DEV Community](https://dev.to/muhammetsafak)** | Technical articles and developer-focused engineering content | English |
+| **[Medium](https://medium.com/@muhammetsafak)** | Engineering articles, technical explanations, and research | English / Turkish |
+| **[YouTube](https://www.youtube.com/@muhammetsafak)** | Demonstrations, walkthroughs, and technical comparisons | Turkish |
+
+The distinction between my personal journal and **sade.dev** is intentional.
+
+My journal documents what I built, investigated, measured, and learned. **sade.dev** focuses on generalizable engineering principles, architectural decisions, and the trade-offs behind them.
+
+## Technologies
+
+Languages and tools are means to solve engineering problems, not the foundation of my professional identity.
+
+**Languages:** PHP · Go · Python · JavaScript · TypeScript · SQL · Shell
+
+**Backend & Frameworks:** Laravel · Symfony · Node.js · FastAPI · Gin
+
+**Data & Messaging:** PostgreSQL · MySQL/MariaDB · Redis · RabbitMQ · Elasticsearch · MongoDB
+
+**Infrastructure & Engineering:** Linux · Docker · GitHub Actions · Nginx · OpenTelemetry · Prometheus
+
+**Architecture & Practices:** Distributed Systems · Event-Driven Architecture · DDD · TDD · API Design · CI/CD · Performance Engineering
+
+**Applied AI:** LLM Integration · RAG · MCP · AI Gateways · Agent Tooling · Evaluation
 
 ---
 
-The fastest way to reach me is **info@muhammetsafak.com.tr**.
+### Get in touch
+
+I'm based in **Istanbul, Türkiye**.
+
+For engineering discussions, open-source collaboration, research, or professional inquiries:
+
+- **Website:** [muhammetsafak.com](https://muhammetsafak.com)
+- **LinkedIn:** [linkedin.com/in/muhammetsafak44](https://www.linkedin.com/in/muhammetsafak44)
+- **Email:** [info@muhammetsafak.com](mailto:info@muhammetsafak.com)
+
+*I design, build, and study production software systems.*
