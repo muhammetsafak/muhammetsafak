@@ -1,8 +1,6 @@
-<!--
 <p align="center">
   <img src="./assets/banner.png" alt="Muhammet Şafak — I design, build and study production software systems." width="100%">
 </p>
--->
 
 # Hi, I'm Muhammet Şafak
 
