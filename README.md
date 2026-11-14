@@ -110,7 +110,7 @@ Copies and other formats: **[DEV](https://dev.to/muhammetsafak)** (English) · *
 
 Languages and tools are means to solve problems, not the foundation of my professional identity.
 
-**Languages:** PHP · Go · Python · JavaScript · TypeScript · SQL · Shell
+**Languages:** PHP · Go · Python · JavaScript · TypeScript · Rust · SQL · Shell
 
 **Backend & Frameworks:** Laravel · Symfony · Node.js · FastAPI · Gin
 
