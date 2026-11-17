@@ -31,7 +31,7 @@ My work spans three connected areas:
 1. **I choose what can be changed tomorrow** — reversible technical decisions over clever ones.
 2. **I write down why** — every project keeps its decisions as ADRs.
 3. **I state the cost** — performance, money and complexity are part of the answer.
-4. **I'm bound to the problem, not the language** — PHP, Go, Python and TypeScript sit at the same table.
+4. **I'm bound to the problem, not the language** — PHP, Go, Python, JavaScript and Rust sit at the same table.
 5. **When I don't know, I write "I don't know."**
 
 On AI: *the machine works at the language layer, not the decision layer.* I use AI heavily — content pipelines, agent-based development, LLM products — and I design the systems so that the final decision stays with a person.
@@ -112,7 +112,7 @@ Languages and tools are means to solve problems, not the foundation of my profes
 
 **Languages:** PHP · Go · Python · JavaScript · TypeScript · Rust · SQL · Shell
 
-**Backend & Frameworks:** Laravel · Symfony · Node.js · FastAPI · Gin
+**Backend & Frameworks:** Laravel · Symfony · Node.js · Gin · Fiber
 
 **Data & Messaging:** PostgreSQL · MySQL/MariaDB · Redis · RabbitMQ · Kafka · MongoDB
 
